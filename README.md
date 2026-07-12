@@ -1,8 +1,8 @@
 # ContentDM
 
-XSIAM Content & Audit Platform — production distribution.
+Content Sync Tool — production distribution.
 
-Manage XSIAM content across tenants, view dashboards, track platform activity, and monitor alerts. This repository hosts the installer and the packaged releases; the application ships as pre-built, compiled Docker images.
+Manage content across tenants, view dashboards. This repository hosts the installer and the packaged releases; the application ships as pre-built, compiled Docker images.
 
 ## Requirements
 
