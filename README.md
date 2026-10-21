@@ -1,6 +1,6 @@
 # ContentDM
 
-Content Sync Tool — production distribution.
+Content Data Management (ContentDM) — This tool serve as a multi-tenant environment for Cortex XSIAM (By Palo Alto Networks) that can sync different contents such as Playbooks, Correlation Rules, BIOC, Dashboard across child tenants. This tool is production ready
 
 Manage content across tenants, view dashboards. This repository hosts the installer and the packaged releases; the application ships as pre-built, compiled Docker images.
 
